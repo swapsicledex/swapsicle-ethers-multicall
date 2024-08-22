@@ -1,5 +1,5 @@
 {
-  "name": "swapsicle-ethers-multicall",
+  "name": "@swapsicledex/swapsicle-ethers-multicall",
   "version": "0.2.6",
   "description": "Make multiple Ethereum network requests in a single HTTP query. ethcall for ethers v5.",
   "main": "dist/index.js",
